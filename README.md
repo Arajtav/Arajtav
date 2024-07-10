@@ -19,3 +19,6 @@ I probably know more stuff than I listed here.
 
 ## Some stats
 <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arajtav&theme=transparent" />
+
+## thing
+![read exif or whatever](https://github.com/arajtav/arajtav/blob/main/8831.gif)
