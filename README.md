@@ -1,5 +1,5 @@
 ## Hi
-I\`m Aräjtav and I make music (and code sometimes).  
+I\`m [Aräjtav](https://arajtav.com/) and I make music (and code sometimes).  
 
 ## Languages and whatever
 I probably know more stuff than I listed here.
