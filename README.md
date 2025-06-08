@@ -17,7 +17,8 @@ I'm [Aräjtav](https://arajtav.com/) and I do stuff. Like code and whatever, but
 
 ## Some stats
 <img alt="stats" src="https://ghrs.arajtav.com/api?username=arajtav&show_icons=true&theme=transparent" />
-<img alt="top languages" src="https://ghrs.arajtav.com/api/top-langs/?username=arajtav&layout=compact&theme=transparent" />
+<img alt="top languages" src="https://ghrs.arajtav.com/api/top-langs/?username=arajtav&theme=transparent&&size_weight=1&count_weight=0&langs_count=20&layout=compact" />
+Top languages are only from non archived repos.
 
 ## thing
 ![read exif or whatever](https://github.com/arajtav/arajtav/blob/main/8831.gif)
